@@ -42,8 +42,8 @@ Focused on clean architecture, performance and cloud-native applications.
   <img src="https://img.shields.io/badge/Substack-Valdir%20Luz-FF6719?style=for-the-badge&logo=substack&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/valdirluz-dev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Valdir%20Luz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.instagram.com/valdirluz360/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Valdir%20Luz-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 
