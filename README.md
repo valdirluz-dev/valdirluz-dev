@@ -32,18 +32,26 @@ Focused on clean architecture, performance and cloud-native applications.
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdirluz-dev&layout=compact&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 📬 Contact
 
-<a href="https://linkedin.com/in/valdirluz-dev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Valdir%20Luz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<a href="mailto:valdirluz.dev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge">
+</a><br>
 
-<a href="https://valdirluz360.substack.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Substack-Valdir%20Luz-FF6719?style=for-the-badge&logo=substack&logoColor=white">
-</a>
+<a href="https://linkedin.com/in/valdirluz-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Valdir%20Luz-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+</a><br>
 
-<a href="https://www.instagram.com/valdirluz360/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Valdir%20Luz-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://valdirluz360.substack.com/">
+  <img src="https://img.shields.io/badge/Substack-Valdir%20Luz-FF6719?logo=substack&logoColor=white&style=for-the-badge">
+</a><br>
+
+<a href="https://www.instagram.com/valdirluz360/">
+  <img src="https://img.shields.io/badge/Instagram-Valdir%20Luz-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
 </a>
 
 
