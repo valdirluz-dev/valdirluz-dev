@@ -32,7 +32,16 @@ Focused on clean architecture, performance and cloud-native applications.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdirluz-dev&layout=compact&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdirluz-dev&show_icons=true&theme=dark&icon_color=808080&border_color=1f1f1f&custom_title=Valdirluz-dev%20|%20GitHub%20Stats"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdirluz-dev&theme=dark&layout=compact&border_color=1f1f1f&langs_count=6"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
