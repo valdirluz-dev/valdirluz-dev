@@ -32,7 +32,7 @@ Focused on clean architecture, performance and cloud-native applications.
 
 ---
 
-<table align="center">
+<table>
   <tr>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdirluz-dev&show_icons=true&theme=dark&icon_color=808080&border_color=1f1f1f&custom_title=Valdirluz-dev%20|%20GitHub%20Stats"/>
