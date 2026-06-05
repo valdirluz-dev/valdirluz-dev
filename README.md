@@ -37,11 +37,11 @@ Focused on clean architecture, performance, and cloud-native applications.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valdirluz-dev&theme=zenburn" alt="GitHub Stats"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valdirluz-dev&theme=zenburn" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valdirluz-dev&theme=zenburn" alt="Top Languages"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valdirluz-dev&theme=zenburn" alt="GitHub Stats"/>
 </p>
 
 
