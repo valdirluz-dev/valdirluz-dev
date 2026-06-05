@@ -36,7 +36,7 @@ Focused on clean architecture, performance, and cloud-native applications.
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valdirluz-dev&theme=zenburn" alt="GitHub Stats"/>
 </p>
 
