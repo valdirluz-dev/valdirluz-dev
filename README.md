@@ -38,8 +38,9 @@ Focused on clean architecture, performance, and cloud-native applications.
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-two.vercel.app/api?username=valdirluz-dev&show_icons=true&theme=dark&icon_color=808080&border_color=1f1f1f&custom_title=Valdirluz-dev%20|%20GitHub%20Stats" alt="Valdir's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=valdirluz-dev&theme=dark&background=1f1f1f&ring=808080&fire=808080" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-two.vercel.app/api/top-langs?username=valdirluz-dev&theme=dark&layout=compact&border_color=1f1f1f&langs_count=6" alt="Top Languages"/>
 </p>
+
 
 
 ---
