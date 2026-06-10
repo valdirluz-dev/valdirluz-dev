@@ -57,7 +57,7 @@
   <line class="divider" x1="35" y1="224" x2="600" y2="224" stroke="#005f73" stroke-width="1"/>
 
   <!-- Description -->
-  <text class="desc1" x="35" y="244" font-family="Courier New, monospace" font-size="13" fill="#ede9ff"><tspan fill="#34d399" font-weight="bold">FlashDev!</tspan> Criando sistemas modulares escaláveis,</text>
+  <text class="desc1" x="35" y="244" font-family="Courier New, monospace" font-size="13" fill="#ede9ff"><tspan fill="#34d399" font-weight="bold">VLTech!</tspan> Criando sistemas modulares escaláveis,</text>
   <text class="desc2" x="35" y="261" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">robustos e duradouros.</text>
 
   <!-- Logged in — Alterado para Ciano Forte -->
