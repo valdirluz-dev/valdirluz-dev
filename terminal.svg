@@ -32,8 +32,8 @@
   <!-- Background -->
   <rect width="820" height="320" rx="14" fill="#0d1117"/>
 
-  <!-- Animated border glow -->
-  <rect class="border" x="1.5" y="1.5" width="817" height="317" rx="13" fill="none" stroke="#1e40af" stroke-width="1.5"/>
+  <!-- Animated border glow — Alterado para Ciano Forte -->
+  <rect class="border" x="1.5" y="1.5" width="817" height="317" rx="13" fill="none" stroke="#00f5ff" stroke-width="1.5"/>
 
   <!-- Corner brackets — cyan -->
   <path d="M28 14 L14 14 L14 28" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-linecap="round"/>
@@ -44,31 +44,31 @@
   <!-- Welcome to GitHub -->
   <text class="hello" x="35" y="50" font-family="Courier New, monospace" font-size="14" fill="#34d399" letter-spacing="1">Welcome to GitHub 👾</text>
 
-  <!-- VALDIR — Azul Marinho -->
-  <text class="name1" x="35" y="118" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#1e40af" letter-spacing="6">VALDIR</text>
+  <!-- VALDIR — Alterado para Ciano Forte -->
+  <text class="name1" x="35" y="118" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#00f5ff" letter-spacing="6">VALDIR</text>
 
-  <!-- LUZ — Azul Marinho -->
-  <text class="name2" x="35" y="183" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#1e40af" letter-spacing="6">LUZ</text>
+  <!-- LUZ — Alterado para Ciano Forte -->
+  <text class="name2" x="35" y="183" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#00f5ff" letter-spacing="6">LUZ</text>
 
   <!-- Subtitle -->
   <text class="sub" x="36" y="208" font-family="Courier New, monospace" font-size="13" fill="#93c5fd" letter-spacing="1">Full Stack Developer · Java · React · Cloud</text>
 
-  <!-- Divider -->
-  <line class="divider" x1="35" y1="224" x2="600" y2="224" stroke="#1e3a8a" stroke-width="1"/>
+  <!-- Divider — Ajustado para um tom de ciano escuro para manter o contraste harmônico -->
+  <line class="divider" x1="35" y1="224" x2="600" y2="224" stroke="#005f73" stroke-width="1"/>
 
   <!-- Description -->
   <text class="desc1" x="35" y="244" font-family="Courier New, monospace" font-size="13" fill="#ede9ff"><tspan fill="#34d399" font-weight="bold">FlashDev!</tspan> Criando sistemas modulares escaláveis,</text>
   <text class="desc2" x="35" y="261" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">robustos e duradouros.</text>
 
-  <!-- Logged in -->
-  <circle class="logged" cx="36" cy="280" r="5" fill="#1e40af"/>
-  <text class="logged" x="48" y="284" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">Logged in as user: <tspan fill="#1e40af" font-weight="bold">valdirluz-dev</tspan></text>
+  <!-- Logged in — Alterado para Ciano Forte -->
+  <circle class="logged" cx="36" cy="280" r="5" fill="#00f5ff"/>
+  <text class="logged" x="48" y="284" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">Logged in as user: <tspan fill="#00f5ff" font-weight="bold">valdirluz-dev</tspan></text>
 
-  <!-- Path + blinking cursor -->
-  <text class="path" x="35" y="304" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">~/ValdirLuz <tspan fill="#a78bfa">[∠main]</tspan>  <tspan class="cursor" fill="#1e40af">█</tspan></text>
+  <!-- Path + blinking cursor — Alterado cursor para Ciano Forte -->
+  <text class="path" x="35" y="304" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">~/ValdirLuz <tspan fill="#a78bfa">[∠main]</tspan>  <tspan class="cursor" fill="#00f5ff">█</tspan></text>
 
-  <!-- GitHub icon animado — class="icon" adicionada aqui -->
+  <!-- GitHub icon — Alterado para Ciano Forte -->
   <svg class="icon" x="648" y="48" width="120" height="120" viewBox="0 0 24 24">
-    <path d="M12 0C5.37 0 0 5.37 0 12c0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.298 24 12c0-6.63-5.37-12-12-12z" fill="#1e40af"/>
+    <path d="M12 0C5.37 0 0 5.37 0 12c0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.298 24 12c0-6.63-5.37-12-12-12z" fill="#00f5ff"/>
   </svg>
 </svg>
