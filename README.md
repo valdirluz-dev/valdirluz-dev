@@ -7,7 +7,7 @@
 
 ### 👋 Hi there! I'm Valdir Luz! 😎
 
-Java Developer | Full Stack | Cloud Tracks
+Desenvolvedor Full Stack | Java | Spring Boot | React | AWS | Terraform | Docker | Tailwind CSS | APIs REST 
 
 Building high-productivity ecosystems through modular components, clean architectures, and scalable cloud infrastructure.
 
@@ -18,9 +18,6 @@ Building high-productivity ecosystems through modular components, clean architec
 </a>
 <a href="https://linkedin.com/in/valdirluz-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Valdir%20Luz-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-</a>
-<a href="https://valdirluz360.substack.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Substack-Valdir%20Luz-FF6719?logo=substack&logoColor=white&style=for-the-badge" alt="Substack">
 </a>
 <a href="https://www.instagram.com/valdirluz360/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Valdir%20Luz-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
