@@ -13,6 +13,10 @@
 
 ---
 
+<img width="1999" height="786" alt="ChatGPT Image Jun 10, 2026, 07_07_58 PM" src="https://github.com/user-attachments/assets/5d98bc22-6abe-450f-9bdb-3edffb8bc274" />
+
+---
+
 <div align="center">
 
 <h3> 👋 Hi there! I'm Valdir Luz! 😎 </h3>
@@ -21,6 +25,21 @@ Desenvolvedor Full Stack | Java | Spring Boot | React | AWS | Terraform | Docker
 
 Building high-productivity ecosystems through modular components, clean architectures, and scalable cloud infrastructure.
 </div>
+
+---
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - ☕ Studying java and Spring Boot
+  - 🎨 Learning HTML, CSS
+  - 🌐 Studying JS, TS and React
+  - 🛠 Learning Linux and networks
+  - ☁️ Studying Docker, Kubernetes and Cloud Services
+
+---
+
+### 🖥️ My DevSetup
+
+<img src="https://img.shields.io/badge/Notebook-555555.svg?&style=flat-square&logo=lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Linux-555555.svg?&style=flat-square&logo=linux&logoColor=FCC624"> <img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=brave&logoColor=FB542B"> <img src="https://img.shields.io/badge/VS Code-555555.svg?&style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/IntelliJ-555555.svg?&style=flat-square&logo=intellij-idea&logoColor=000000"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=gnome-terminal&logoColor=ffffff">
 
 ---
 
@@ -39,54 +58,7 @@ Building high-productivity ecosystems through modular components, clean architec
 
 ---
 
-## ☕ Robust Back-End & Architecture
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-## 🌐 Modular Front-End & Interfaces
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</div>
-
-## 📱 Mobile Development
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</div>
-
-## ☁️ Infrastructure, Cloud & DevOps
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
-
-## 🛠️ Tools & Ecosystem
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-</div>
 
 ---
 
@@ -113,6 +85,7 @@ Building high-productivity ecosystems through modular components, clean architec
 </div>
 
 ---
+
 
 <div align="center">
 
