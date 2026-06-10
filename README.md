@@ -44,10 +44,10 @@ Building high-productivity ecosystems through modular components, clean architec
 ---
 
 ### 🧠 Core Focus
-- **Advanced Full Stack Development** utilizing Java within the Spring Boot ecosystem, seamlessly integrated with modern React interfaces.
-- **Modular Microservices Architecture** applying Clean Code, Domain-Driven Design (DDD), and SOLID principles to ensure long-lasting systems.
-- **Software Engineering & Acceleration** driven by workflow automation, highly reusable component libraries, and agile continuous delivery methodologies.
-- **Distributed & Cloud-Native Systems** architected for high availability, fault tolerance, and end-to-end data integrity.
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=3000&color=00BFFF&center=true&vCenter=true&width=1800&lines=Criando+sistemas+modulares%2C+escal%C3%A1veis%2C+robustos+e+duradouros.;Construir+sistemas+de+alta+produtividade+com+arquitetura+limpa+e+infraestrutura+escal%C3%A1vel+em+nuvem.;Desenvolvimento+Full+Stack+Avan%C3%A7ado+com+Java%2C+Spring+Boot%2C+React+e+TypeScript.;Arquitetura+Monol%C3%ADtica+Modular+com+DDD%2C+SOLID+e+Clean+Code.;Engenharia+de+Software+potencializada+por+IA%2C+automa%C3%A7%C3%A3o+e+CI%2FCD.;Sistemas+Cloud-Native+com+alta+disponibilidade%2C+observabilidade+e+escalabilidade."
+/>
 
 ---
 
