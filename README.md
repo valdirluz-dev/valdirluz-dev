@@ -5,24 +5,21 @@
 
 <br>
 
-### 👋 Hi there! I'm Valdir Luz! 😎
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valdirluz-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdirluz.dev@gmail.com")
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valdirluz360")
+
+</div>
+
+---
+
+<div align="center">
+
+<h3> 👋 Hi there! I'm Valdir Luz! 😎 </h3>
 
 Desenvolvedor Full Stack | Java | Spring Boot | React | AWS | Terraform | Docker | Tailwind CSS | APIs REST 
 
 Building high-productivity ecosystems through modular components, clean architectures, and scalable cloud infrastructure.
-
-<br>
-
-<a href="mailto:valdirluz.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
-</a>
-<a href="https://linkedin.com/in/valdirluz-dev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Valdir%20Luz-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/valdirluz360/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Valdir%20Luz-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
-</a>
-
 </div>
 
 ---
