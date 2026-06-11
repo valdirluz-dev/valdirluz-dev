@@ -13,7 +13,8 @@
 
 ---
 
-<img width="1999" height="786" alt="ChatGPT Image Jun 10, 2026, 07_07_58 PM" src="https://github.com/user-attachments/assets/5d98bc22-6abe-450f-9bdb-3edffb8bc274" />
+<img width="1536" height="1024" alt="1aee8f34-2dd2-475d-a251-b0b511454e7a" src="https://github.com/user-attachments/assets/482b1bcc-72f2-4518-b782-7dab8464d780" />
+
 
 ---
 
@@ -28,7 +29,7 @@ Building high-productivity ecosystems through modular components, clean architec
 
 ---
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Currently focused on
   - ☕ Studying java and Spring Boot
   - 🎨 Learning HTML, CSS
   - 🌐 Studying JS, TS and React
@@ -43,21 +44,21 @@ Building high-productivity ecosystems through modular components, clean architec
 
 ---
 
-### 🧠 Core Focus
-
-<img width="1600" height="180" alt="VLTech_Banner" src="https://github.com/user-attachments/assets/0ae824ce-73e9-4bd6-8e6a-9c7ed966e084" />
-
-
----
-
-### ⭐ Current Goals
-- Expanding expertise in **large-scale container orchestration** using Kubernetes natively and agnostically across multiple clouds.
-- Evolving backend strategies for monitoring, real-time data telemetry, and distributed infrastructure efficiency.
-- Refining advanced **System Design** patterns, focusing on operational cost optimization and integrated repository security.
+<details>
+  <summary><h3>🧠 Core Focus</h3></summary>
+  <img width="1600" height="220" alt="VLTech_Banner (1)" src="https://github.com/user-attachments/assets/effc83f8-2c26-4210-875d-8fb77de74d76" />
+</details>
 
 ---
 
+<details>
+  <summary><h3>🎯 Current Goals </h3></summary>
+  <img width="1600" height="220" alt="VLTech_Banner (2)" src="https://github.com/user-attachments/assets/f1e283c5-e101-49f9-b943-d1e279ea1147" />
+</details>
 
+---
+
+<!--projects future-->
 
 ---
 
@@ -90,6 +91,8 @@ Building high-productivity ecosystems through modular components, clean architec
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=valdirluz-dev&color=1e40af&style=for-the-badge&label=VIEWS)
 
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 
+<br> 
+<p>- Martin Fowler</p>
 
 </div>
