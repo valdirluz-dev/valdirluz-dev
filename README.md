@@ -45,9 +45,8 @@ Building high-productivity ecosystems through modular components, clean architec
 
 ### 🧠 Core Focus
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=3000&color=00BFFF&center=true&vCenter=true&width=1800&lines=Criando+sistemas+modulares%2C+escal%C3%A1veis%2C+robustos+e+duradouros.;Construir+sistemas+de+alta+produtividade+com+arquitetura+limpa+e+infraestrutura+escal%C3%A1vel+em+nuvem.;Desenvolvimento+Full+Stack+Avan%C3%A7ado+com+Java%2C+Spring+Boot%2C+React+e+TypeScript.;Arquitetura+Monol%C3%ADtica+Modular+com+DDD%2C+SOLID+e+Clean+Code.;Engenharia+de+Software+potencializada+por+IA%2C+automa%C3%A7%C3%A3o+e+CI%2FCD.;Sistemas+Cloud-Native+com+alta+disponibilidade%2C+observabilidade+e+escalabilidade."
-/>
+<img width="1600" height="180" alt="VLTech_Banner" src="https://github.com/user-attachments/assets/0ae824ce-73e9-4bd6-8e6a-9c7ed966e084" />
+
 
 ---
 
