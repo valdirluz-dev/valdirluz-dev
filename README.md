@@ -13,8 +13,7 @@
 
 ---
 
-<img width="1536" height="1024" alt="1aee8f34-2dd2-475d-a251-b0b511454e7a" src="https://github.com/user-attachments/assets/482b1bcc-72f2-4518-b782-7dab8464d780" />
-
+<img width="1536" height="1024" alt="63684e42-989b-4a58-88dd-5aed3b0a57cb" src="https://github.com/user-attachments/assets/4724db35-0856-4457-831a-4dceb1a89ba6" />
 
 ---
 
@@ -58,7 +57,12 @@ Building high-productivity ecosystems through modular components, clean architec
 
 ---
 
-<!--projects future-->
+<details>
+  <summary><h3> 📘 Top Projects </h3></summary>
+  <div align="center">
+  <img width="1408" height="768" alt="comingsoon" src="https://github.com/user-attachments/assets/4adbb434-a640-4969-8d4c-c57c6b7267e8" />
+  </div>
+</details>
 
 ---
 
