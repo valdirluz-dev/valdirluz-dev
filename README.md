@@ -72,13 +72,6 @@ Quero fazer parte de quem está construindo a visão estratégica da jornada do 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-#### 💻 Background Técnico (Full Stack)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ---
 
 <details>
@@ -110,7 +103,6 @@ Quero fazer parte de quem está construindo a visão estratégica da jornada do 
 
   | Competência | Descrição |
   |---|---|
-  | 🔧 **Background Técnico** | Visão de sistemas que vai além da configuração — entendo APIs, integrações e lógica de dados |
   | 📊 **Pensamento Analítico** | Capacidade de transformar dados em insights acionáveis para o negócio |
   | 🔄 **Agilidade** | Familiaridade com Scrum, sprints e cerimônias ágeis |
   | 📝 **Documentação** | Hábito de documentar processos de forma clara e acessível |
