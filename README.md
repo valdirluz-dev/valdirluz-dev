@@ -22,7 +22,7 @@
 
 <h3> 👋 Hi there! I'm Valdir Luz! 😎 </h3>
 
-Desenvolvedor Full Stack | Java | Spring Boot | React | AWS | Terraform | Docker | Tailwind CSS | APIs REST 
+Desenvolvedor Full Stack | Java | Spring Boot | Ângular | AWS | Terraform | Docker | Tailwind CSS | APIs REST 
 
 Building high-productivity ecosystems through modular components, clean architectures, and scalable cloud infrastructure.
 </div>
