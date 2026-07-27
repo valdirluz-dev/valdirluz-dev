@@ -32,7 +32,7 @@ Building high-productivity ecosystems through modular components, clean architec
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Currently focused on
   - ☕ Studying java and Spring Boot
   - 🎨 Learning HTML, CSS
-  - 🌐 Studying JS, TS and React
+  - 🌐 Studying JS, TS and ângular
   - 🛠 Learning Linux and networks
   - ☁️ Studying Docker, Kubernetes and Cloud Services
 
