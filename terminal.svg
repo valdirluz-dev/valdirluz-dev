@@ -51,7 +51,7 @@
   <text class="name2" x="35" y="183" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#00f5ff" letter-spacing="6">LUZ</text>
 
   <!-- Subtitle -->
-  <text class="sub" x="36" y="208" font-family="Courier New, monospace" font-size="13" fill="#93c5fd" letter-spacing="1">Full Stack Developer · Java · React · Cloud</text>
+  <text class="sub" x="36" y="208" font-family="Courier New, monospace" font-size="13" fill="#93c5fd" letter-spacing="1">Full Stack Developer · Java · Ângular · Cloud</text>
 
   <!-- Divider — Ajustado para um tom de ciano escuro para manter o contraste harmônico -->
   <line class="divider" x1="35" y1="224" x2="600" y2="224" stroke="#005f73" stroke-width="1"/>
