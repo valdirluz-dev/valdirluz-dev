@@ -13,8 +13,7 @@
 
 ---
 
-<img width="1535" height="1024" alt="VLSTACK" src="https://github.com/user-attachments/assets/2b348cf3-163b-478e-add8-d6752bc80e7d" />
-
+<img width="1535" height="1024" alt="targettechstack" src="https://github.com/user-attachments/assets/4bf9867b-19ac-4ad6-8410-84866975316c" />
 
 ---
 
